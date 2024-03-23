@@ -1,9 +1,9 @@
-package Entities;
+package Estudo;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Estudo.rectangleArea;
+import Entities.rectangleArea;
 
 public class Rectangle {
 

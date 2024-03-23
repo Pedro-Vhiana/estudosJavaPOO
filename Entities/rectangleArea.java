@@ -1,4 +1,4 @@
-package Estudo;
+package Entities;
 
 public class rectangleArea {
 
