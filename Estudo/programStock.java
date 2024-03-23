@@ -43,11 +43,6 @@ public class programStock {
 		System.out.println("Update Data: " + product);
 		
 		
-		
-		
-		
-		
-
 	}
 
 }
